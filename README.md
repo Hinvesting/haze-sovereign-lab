@@ -18,3 +18,9 @@ This is a "Plug-and-Play" architecture. Whether you are building for:
 
 ## 🚀 Versatile Deployment
 The shell is pre-configured to accept any **Skill** or **Tool** you define. Simply drop your logic into the `scripts/` folder and watch the swarm activate.
+
+## 🌐 Secure Remote Access (Tailscale)
+The Haze-Sovereign Lab is compatible with **Tailscale** for encrypted, private networking.
+* **The Mesh**: Access your local 100/100 environment from your mobile device or remote laptop as if you were on the same Wi-Fi.
+* **The Security**: Your connection is wrapped in a WireGuard® tunnel, ensuring your "Sovereign Intelligence" stays private even when you are on public networks.
+* **Status**: Currently supported as an optional 'Encrypted Radio' for remote command and control.
