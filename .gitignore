@@ -1,2 +1,14 @@
-.env
+# Dependencies
 node_modules/
+package-lock.json
+
+# Logs and Observability
+observability/logs/*.log
+
+# Environment and Secrets
+.env
+*.local
+
+# System Files
+.DS_Store
+Thumbs.db
