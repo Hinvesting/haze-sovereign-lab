@@ -13,3 +13,4 @@ observability/logs/*.log
 .DS_Store
 Thumbs.db
 CONTINUITY.md
+private_agents/
